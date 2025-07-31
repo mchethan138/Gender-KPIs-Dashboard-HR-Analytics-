@@ -3,18 +3,6 @@
 
 This project presents an end-to-end **Customer Churn Analysis** and **Risk Profiling** using Power BI. It is designed to help telecom or subscription-based service providers identify at-risk customers, analyze behavioral and demographic patterns, and take data-driven decisions to reduce churn and improve customer retention.
 
-## 🔍 Project Overview
-
-The dashboard is divided into two key views:
-
-### 1️⃣ Churn Dashboard
-Provides a high-level summary of churn-prone customers and insights into their profiles.
-
-### 2️⃣ Risk Analysis Dashboard
-Drills down into specific churn risk factors with interactive filters for churn probability, internet service, contract type, and subscription duration.
-
----
-
 ## 📌 Key Observations from the Churn Analysis Project
 
 ### 📊 Churn Dashboard
@@ -44,6 +32,7 @@ Drills down into specific churn risk factors with interactive filters for churn 
 - High number of Tech (2,173) and Admin (885) support tickets.
 
 ---
+<img width="1307" height="735" alt="churn dashboard" src="https://github.com/user-attachments/assets/f0c0f04c-d6ff-4b26-a1e6-66bf94af028d" />
 
 ### 🔍 Risk Analysis Dashboard
 
@@ -68,6 +57,7 @@ Drills down into specific churn risk factors with interactive filters for churn 
 
 **Revenue Impact:**
 - Total churned customer charges exceed 5.31M.
+<img width="1311" height="732" alt="Risk Analysis" src="https://github.com/user-attachments/assets/1c02860a-2317-4a0e-8faf-39b800daa1aa" />
 
 ---
 
@@ -118,10 +108,4 @@ Drills down into specific churn risk factors with interactive filters for churn 
 - **Data Cleaning**: Done prior to visualization to prepare meaningful groupings and aggregations
 
 ---
-
-## 📷 Dashboard Snapshots
-
-| Churn Dashboard | Risk Analysis Dashboard |
-|-----------------|--------------------------|
-| ![Churn Dashboard](./churn%20dashboard.png) | ![Risk Analysis Dashboard](./Risk%20Analysis.png) |
 
